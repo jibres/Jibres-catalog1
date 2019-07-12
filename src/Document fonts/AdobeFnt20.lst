@@ -31,6 +31,33 @@ NameArray:0,Win,16,Anjoman
 %BeginFont
 Handler:DirectoryHandler
 FontType:TrueType
+FontName:dana-black
+FamilyName:dana
+StyleName:black
+FullName:dana black
+MenuName:dana black
+StyleBits:0
+FamilyNameNative:dana
+StyleNameNative:black
+FullNameNative:dana black
+WritingScript:Arabic
+OutlineFileName:C:\xampp\htdocs\projects\Jibres-catalog1\src\Document fonts\dana-black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:42748
+FileModTime:1562861934
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,dana black
+NameArray:0,Win,1,dana black
+NameArray:0,Win,16,dana
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
 FontName:dana-bold
 FamilyName:dana
 StyleName:bold
@@ -79,6 +106,32 @@ AngleClass:0
 NameArray:0,Mac,4,dana-fanum medium
 NameArray:0,Win,1,dana-fanum medium
 NameArray:0,Win,16,dana-fanum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:dana-fanum-regular
+FamilyName:dana-fanum
+StyleName:regular
+FullName:dana-fanum regular
+MenuName:dana-fanum
+StyleBits:0
+FamilyNameNative:dana-fanum
+StyleNameNative:regular
+FullNameNative:dana-fanum regular
+WritingScript:Arabic
+OutlineFileName:C:\xampp\htdocs\projects\Jibres-catalog1\src\Document fonts\dana-fanum-regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:43412
+FileModTime:1562861934
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,dana-fanum regular
+NameArray:0,Win,1,dana-fanum
 %EndFont
 
 %BeginFont
@@ -285,31 +338,6 @@ WeightClass:400
 WidthClass:5
 AngleClass:0
 NameArray:0,Win,1,IRANYekan
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:TrueType
-FontName:IRANYekanFN
-FamilyName:IRANYekanFN
-StyleName:Regular
-FullName:IRANYekanFN
-MenuName:IRANYekanFN
-StyleBits:0
-FamilyNameNative:IRANYekanFN
-StyleNameNative:Regular
-FullNameNative:IRANYekanFN Regular
-WritingScript:Arabic
-OutlineFileName:C:\xampp\htdocs\projects\Jibres-catalog1\src\Document fonts\IRANYekanRegularFaNum.ttf
-DataFormat:sfntData
-hasSVG:no
-VariableFontType:NonVariableFont
-FileLength:60264
-FileModTime:1561733608
-WeightClass:400
-WidthClass:5
-AngleClass:0
-NameArray:0,Win,1,IRANYekanFN
 %EndFont
 
 %BeginFont
