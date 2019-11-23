@@ -14,12 +14,12 @@ FamilyNameNative:Dana
 StyleNameNative:Black
 FullNameNative:Dana Black
 WritingScript:Arabic
-OutlineFileName:C:\xampp\htdocs\projects\Jibres-catalog1\src\Document fonts\Dana-Black.ttf
+OutlineFileName:D:\xampp\htdocs\Projects\Jibres-catalog1\src\Document fonts\dana-black.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:56916
-FileModTime:1564927308
+FileModTime:1565009630
 WeightClass:900
 WidthClass:5
 AngleClass:0
@@ -41,12 +41,12 @@ FamilyNameNative:Dana-FaNum
 StyleNameNative:Regular
 FullNameNative:Dana-FaNum Regular
 WritingScript:Arabic
-OutlineFileName:C:\xampp\htdocs\projects\Jibres-catalog1\src\Document fonts\Dana-FaNum-Regular.ttf
+OutlineFileName:D:\xampp\htdocs\Projects\Jibres-catalog1\src\Document fonts\dana-fanum-regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:59280
-FileModTime:1564927308
+FileModTime:1565009630
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -67,12 +67,12 @@ FamilyNameNative:Dana
 StyleNameNative:Regular
 FullNameNative:Dana Regular
 WritingScript:Arabic
-OutlineFileName:C:\xampp\htdocs\projects\Jibres-catalog1\src\Document fonts\Dana-Regular.ttf
+OutlineFileName:D:\xampp\htdocs\Projects\Jibres-catalog1\src\Document fonts\dana-regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:59344
-FileModTime:1564927308
+FileModTime:1565009630
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -93,12 +93,12 @@ FamilyNameNative:IRANSans
 StyleNameNative:Black
 FullNameNative:IRANSans Black
 WritingScript:Arabic
-OutlineFileName:C:\xampp\htdocs\projects\Jibres-catalog1\src\Document fonts\IRANSans_Black.ttf
+OutlineFileName:D:\xampp\htdocs\Projects\Jibres-catalog1\src\Document fonts\IRANSans_Black.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:98216
-FileModTime:1557450416
+FileModTime:1565009630
 WeightClass:900
 WidthClass:5
 AngleClass:0
