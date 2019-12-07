@@ -1,0 +1,108 @@
+%!Adobe-FontList 1.20
+%Locale:0x429
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Dana-Black
+FamilyName:Dana
+StyleName:Black
+FullName:Dana Black
+MenuName:Dana Black
+StyleBits:0
+FamilyNameNative:Dana
+StyleNameNative:Black
+FullNameNative:Dana Black
+WritingScript:Arabic
+OutlineFileName:D:\xampp\htdocs\Projects\Jibres-catalog1\src\Document fonts\dana-black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56916
+FileModTime:1565009630
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Dana Black
+NameArray:0,Win,1,Dana Black
+NameArray:0,Win,16,Dana
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Dana-FaNum-Regular
+FamilyName:Dana-FaNum
+StyleName:Regular
+FullName:Dana-FaNum Regular
+MenuName:Dana-FaNum
+StyleBits:0
+FamilyNameNative:Dana-FaNum
+StyleNameNative:Regular
+FullNameNative:Dana-FaNum Regular
+WritingScript:Arabic
+OutlineFileName:D:\xampp\htdocs\Projects\Jibres-catalog1\src\Document fonts\dana-fanum-regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59280
+FileModTime:1565009630
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Dana-FaNum Regular
+NameArray:0,Win,1,Dana-FaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Dana-Regular
+FamilyName:Dana
+StyleName:Regular
+FullName:Dana Regular
+MenuName:Dana
+StyleBits:0
+FamilyNameNative:Dana
+StyleNameNative:Regular
+FullNameNative:Dana Regular
+WritingScript:Arabic
+OutlineFileName:D:\xampp\htdocs\Projects\Jibres-catalog1\src\Document fonts\dana-regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59344
+FileModTime:1565009630
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Dana Regular
+NameArray:0,Win,1,Dana
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSans-Black
+FamilyName:IRANSans
+StyleName:Black
+FullName:IRANSans Black
+MenuName:IRANSans Black
+StyleBits:0
+FamilyNameNative:IRANSans
+StyleNameNative:Black
+FullNameNative:IRANSans Black
+WritingScript:Arabic
+OutlineFileName:D:\xampp\htdocs\Projects\Jibres-catalog1\src\Document fonts\IRANSans_Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98216
+FileModTime:1565009630
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSans Black
+NameArray:0,Win,16,IRANSans
+%EndFont
+
